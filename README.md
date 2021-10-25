@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souvik1000
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Computer Science and Engineering.
+- 🌱 I have done my B.Tech on Computer Science and Engineering and working on Innovaccer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
